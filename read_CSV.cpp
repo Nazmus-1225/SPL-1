@@ -14,13 +14,13 @@ int main(){
         if(line.at(i)==','){n++;}
     }
     cout<<"Number of variables:"<<n;
-    /*getline(fp, line,',');
+    getline(fp, line,',');
     cout<<"Roll: "<<line<<endl;
     getline(fp, line,',');
     cout<<"Phone: "<<line<<endl;
     float x;
     fp>>x;
-    cout<<"CGPA: "<<x;*/
+    cout<<"CGPA: "<<x;
     return 0;
 
 }
