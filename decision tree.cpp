@@ -54,6 +54,38 @@ int main(){
             cout<<a[i][j]<<"\t";
     }
         cout<<"\n";}
+    
+    int sum;
+for(j=0;j<n;j++){
+        sum=0;
+   // mean[i]=Mean(m,n,a,i);
+    for(i=0;i<m;i++)
+        sum=sum+a[i][j];
+
+    mean[j]=sum/(float)m;
+}
+cout<<"Mean: ";
+for(i=0;i<n;i++)
+    cout<<mean[i]<<" ";
+    cout<<endl;
+
+//Percentage
+int c;
+
+for(j=0;j<n;j++){
+        c=0;
+    for(i=0;i<m;i++){
+        if(a[i][j]<mean[i])
+            c++;
+    }
+
+
+    percentage[j]=c/(float)m;
+}
+cout<<"Percentage: ";
+for(i=0;i<n;i++)
+    cout<<percentage[i]<<" ";
+
 
     return 0;
 
