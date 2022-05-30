@@ -1,0 +1,80 @@
+﻿Gender,Age,Education Level,Load-shedding,Financial Condition,Internet Type,Device,Adaptivity Level
+Boy,23,University,Low,Mid,Wifi,Tab,Moderate
+Girl,23,University,High,Mid,Mobile Data,Mobile,Moderate
+Girl,18,College,Low,Mid,Wifi,Mobile,Moderate
+Girl,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,18,School,Low,Poor,Mobile Data,Mobile,Low
+Boy,13,School,Low,Poor,Mobile Data,Mobile,Low
+Boy,13,School,Low,Mid,Wifi,Mobile,Low
+Boy,13,School,Low,Mid,Wifi,Mobile,Moderate
+Boy,18,College,Low,Mid,Wifi,Mobile,Low
+Boy,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,18,University,Low,Mid,Wifi,Mobile,Low
+Girl,18,College,Low,Mid,Wifi,Mobile,Low
+Boy,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,18,College,Low,Mid,Wifi,Mobile,Low
+Girl,13,School,Low,Poor,Mobile Data,Mobile,Moderate
+Boy,13,School,High,Poor,Wifi,Mobile,Low
+Girl,28,University,Low,Poor,Mobile Data,Computer,Low
+Girl,23,University,Low,Mid,Wifi,Mobile,Low
+Girl,18,College,High,Mid,Wifi,Mobile,Low
+Girl,18,College,High,Mid,Wifi,Mobile,Moderate
+Girl,10,School,Low,Rich,Wifi,Mobile,High
+Boy,8,School,Low,Mid,Mobile Data,Mobile,Low
+Girl,18,College,Low,Mid,Mobile Data,Mobile,Low
+Girl,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,18,College,Low,Mid,Wifi,Mobile,Moderate
+Boy,12,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,4,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,28,University,Low,Mid,Wifi,Computer,Moderate
+Girl,4,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,18,College,High,Mid,Wifi,Mobile,Moderate
+Girl,8,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,17,College,Low,Mid,Mobile Data,Mobile,Low
+Boy,22,University,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,17,College,Low,Mid,Wifi,Mobile,Moderate
+Boy,13,School,Low,Poor,Mobile Data,Mobile,Low
+Girl,22,University,Low,Mid,Wifi,Mobile,Moderate
+Girl,22,College,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,9,School,Low,Poor,Mobile Data,Mobile,High
+Girl,27,University,Low,Poor,Mobile Data,Mobile,Low
+Girl,13,School,Low,Mid,Wifi,Mobile,Low
+Boy,23,University,Low,Mid,Wifi,Computer,Moderate
+Girl,23,University,Low,Mid,Wifi,Mobile,Moderate
+Girl,18,School,Low,Poor,Mobile Data,Mobile,Low
+Boy,12,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,23,University,Low,Mid,Wifi,Computer,Low
+Boy,21,University,Low,Mid,Wifi,Computer,Moderate
+Girl,4,School,Low,Poor,Mobile Data,Mobile,Moderate
+Girl,15,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,14,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,23,University,Low,Mid,Wifi,Computer,Low
+Boy,18,College,Low,Mid,Wifi,Mobile,Low
+Girl,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,22,University,High,Mid,Mobile Data,Mobile,Moderate
+Boy,28,University,Low,Poor,Mobile Data,Mobile,Moderate
+Boy,4,School,Low,Poor,Mobile Data,Mobile,Low
+Girl,4,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,23,University,Low,Mid,Mobile Data,Mobile,Low
+Girl,18,University,Low,Mid,Mobile Data,Mobile,Low
+Girl,13,School,High,Mid,Mobile Data,Mobile,Low
+Boy,18,School,Low,Poor,Mobile Data,Mobile,Low
+Boy,22,University,Low,Mid,Wifi,Mobile,Moderate
+Boy,22,College,Low,Mid,Mobile Data,Mobile,Low
+Girl,17,College,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,14,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,14,School,High,Poor,Wifi,Mobile,Low
+Boy,28,University,Low,Mid,Mobile Data,Mobile,High
+Boy,14,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,8,School,Low,Mid,Mobile Data,Mobile,Low
+Girl,13,School,Low,Mid,Wifi,Mobile,Low
+Boy,13,School,Low,Mid,Mobile Data,Mobile,Moderate
+Boy,22,College,High,Poor,Mobile Data,Mobile,Low
+Girl,18,College,Low,Mid,Mobile Data,Mobile,Low
+Boy,22,University,Low,Mid,Mobile Data,Mobile,Low
+Girl,14,School,Low,Poor,Mobile Data,Mobile,Low
+Boy,14,School,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,8,School,Low,Mid,Mobile Data,Mobile,Low
+Girl,18,College,Low,Mid,Mobile Data,Mobile,Moderate
+Girl,22,College,High,Mid,Mobile Data,Mobile,Low
+Girl,14,School,Low,Mid,Mobile Data,Mobile,Moderate
